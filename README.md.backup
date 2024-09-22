@@ -1,14 +1,5 @@
 # SAS-Health-Metrics-Analysis-BMI-Categorization-and-Gender-Insights
 
-## SAS Programming Introduction
-![pngegg](https://github.com/Ayushverma135/SAS-Health-Metrics-Analysis-BMI-Categorization-and-Gender-Insights/assets/120269805/8e670cd2-150a-4503-ab8a-23832fdd2475)
-
-
-__SAS (Statistical Analysis System)__ programming is a versatile tool used for data management, statistical analysis, and reporting. It provides a comprehensive suite of functionalities for processing and analyzing data, including data import/export, data manipulation, statistical analysis, and visualization. SAS programming language is easy to learn and offers a wide range of procedures and functions to perform various analytical tasks. 
-
-It is widely used in industries such as finance, healthcare, marketing, and research for its robustness, scalability, and reliability in handling large datasets and producing accurate results. SAS programming can be executed in interactive mode through SAS Studio or batch mode using SAS programs, offering flexibility in workflow and analysis methods.
-
-In this project, SAS is utilized to analyze individual statistics and health metrics, showcasing its versatility in data processing and visualization.
 
 ## Overview
 This __SAS Health Metrics Analysis BMI Categorization and Gender Insights__ project aims to analyze individual statistics and health metrics using SAS programming. The project involves importing data from Excel sheets, calculating Body Mass Index (BMI), categorizing individuals based on BMI values, and visualizing the distribution of health status categories through pie charts. 
